@@ -8,7 +8,7 @@ function setCard() {
     let inputColor = cardStyle.value
     let card = document.getElementById(inputSuit)
     card.style.color = inputColor
-    console.log(card)
+        // console.log(card)
 }
 
 // setCard()
